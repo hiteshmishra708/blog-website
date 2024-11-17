@@ -127,6 +127,7 @@ header.shadow .logo{
     display: grid;
     justify-content: center;
     align-items: center;
+    margin-top: 108px;
 }
 
 .home-text{
